@@ -19,3 +19,9 @@ Code can be found [here](https://github.com/hse-scila/equations/tree/main/lightn
 Datasets can be found [here](https://github.com/hse-scila/equations/blob/main/pairs_dataset.csv) and [here(synthetic)](https://github.com/hse-scila/equations/blob/main/generated_pairs.csv)
 
 Results can be found here [here](https://github.com/hse-scila/equations/blob/main/encoder_decoder/results_BookDataset.csv) and [here(synthetic)](https://github.com/hse-scila/equations/blob/main/encoder_decoder/results_SyntheticDataset.csv)
+
+
+
+
+3. "Решение дифференциальных уравнений с помощью языковых моделей из коробки: потенциал небольших LLM в математике".
+   Codes can be found in files "deepseek_1_5_model_inference_2.ipynb", "Exraction_with ollamo_v4.ipynb", "Open-Reasoner-Zero-1_5B_v3.ipynb", "qwen_1_5b_v3.ipynb".
